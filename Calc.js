@@ -40,4 +40,4 @@ for (let i = 1; i < Srok + 1; i++) {
 	
 	console.log(i + ' | ' + Math.floor(MesPl * 100) / 100 + ' | ' + Math.floor(Stat['OsnDolg'] * 100) / 100 + ' | ' +
 							Math.floor(Stat['DolgPoPr'] * 100) / 100 + ' | ' + Math.floor(Stat['OstOsnDolg'] * 100) / 100)
-}
+};
